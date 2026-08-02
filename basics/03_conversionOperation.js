@@ -33,3 +33,12 @@ console.log(n5);            // NaN
 // 1 => true; 0 => false
 // "" => false
 // "hitesh" => true
+
+// ********* Operations *********
+console.log(2/3);   // 0.66666....
+console.log(2**3);  // 2^3 = 8
+
+console.log("1" + 2 + 3);   // 123
+console.log(1 + "2" + 3);   // 123
+console.log(1 + 2 + "3");   // 33
+
